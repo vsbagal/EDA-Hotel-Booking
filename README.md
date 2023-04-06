@@ -1,4 +1,4 @@
-# Hotel-Booking-EDA
+## HOTEL BOOKING EDA
 The purpose of this project is to perform an exploratory data analysis (EDA) on a dataset of hotel bookings. The dataset contains information on bookings made at two hotels over a period of time, including information on the guests, the booking, and the hotel itself. The dataset also includes information on cancellations and no-shows.
 The goal of the EDA is to gain insights into the data and answer questions such as:
 What are the most popular months for bookings? How long do guests typically stay? What factors are most strongly associated with cancellations?Are there any patterns in the data that suggest certain types of guests are more likely to cancel or no-show?The EDA will begin with a data cleaning process, where missing or erroneous data will be identified and addressed. The data will then be explored through a variety of visualizations, including scatter plots, histograms, and heatmaps, to identify patterns and relationships in the data.
