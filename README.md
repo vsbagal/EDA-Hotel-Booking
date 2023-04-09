@@ -1,5 +1,5 @@
 ## HOTEL BOOKING EDA
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST8qp3Nq1klrG-ADP9gZmRQZvog7WJZ-Qlkg&usqp=CAU" alt="Girl in a jacket" width="1200" height="500">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST8qp3Nq1klrG-ADP9gZmRQZvog7WJZ-Qlkg&usqp=CAU" alt="Girl in a jacket" width="1200" height="300">
 
 The purpose of this project is to perform an exploratory data analysis (EDA) on a dataset of hotel bookings. The dataset contains information on bookings made at two hotels over a period of time, including information on the guests, the booking, and the hotel itself. The dataset also includes information on cancellations and no-shows.
 The goal of the EDA is to gain insights into the data and answer questions such as:
